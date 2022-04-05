@@ -1,0 +1,12 @@
+[{
+    "relation": [
+        "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+        "namespace": "android_app",
+        "package_name": "org.uicgroup.nomakler",
+        "sha256_cert_fingerprints": [
+            "4E:7F:0A:30:DC:2E:4A:14:F6:6C:6F:E9:BE:81:F0:C8:3F:5F:A6:97:8B:D6:2D:59:E1:FA:E5:F1:89:D9:28:14"
+        ]
+    }
+}]
